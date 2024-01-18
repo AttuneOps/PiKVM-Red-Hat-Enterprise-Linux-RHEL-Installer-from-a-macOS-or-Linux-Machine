@@ -1,0 +1,28 @@
+{
+    "actionOnStepFail": "stop", 
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "42718e8f-2306-4a29-b9cc-2bdfd270ff7a", 
+    "isBlueprint": true, 
+    "key": "kickstartrhel8onpikvm", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "createrhel8uefikickstartiso"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "recreatevirtualmachineonpikvm"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "cleanbuildfiles"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "testrhel8uefinode"
+        }
+    ], 
+    "name": "Kickstart RHEL8 on PiKVM", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

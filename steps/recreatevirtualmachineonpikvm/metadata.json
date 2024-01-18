@@ -1,0 +1,15 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "2aab50f4-0e29-48ef-b8bb-eddea0bf1509", 
+    "cloneUrl": "https://github.com/Attune-Automation/PiKVM-APIs.git", 
+    "enabled": true, 
+    "externalUuid4": "ecd93b15-1874-4aba-804b-9949b1229e91", 
+    "key": "recreatevirtualmachineonpikvm", 
+    "name": "Recreate Virtual Machine on PiKVM", 
+    "parameterMap": [], 
+    "projectName": "", 
+    "projectUuid": "72cd40ea-d0ee-4b40-a6a8-0458c5255088", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}

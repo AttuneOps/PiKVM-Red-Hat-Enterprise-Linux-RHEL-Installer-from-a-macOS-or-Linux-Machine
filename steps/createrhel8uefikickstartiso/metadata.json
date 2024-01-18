@@ -1,0 +1,25 @@
+{
+    "actionOnStepFail": null, 
+    "blueprintName": "", 
+    "blueprintUuid": "c492717c-2d40-4621-8955-17287d59ea3e", 
+    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Red-Hat-Enterprise-Linux.git", 
+    "enabled": true, 
+    "externalUuid4": "771af63b-5b36-419b-8f75-83a1a47a524e", 
+    "key": "createrhel8uefikickstartiso", 
+    "name": "Create RHEL8 UEFI Kickstart ISO", 
+    "parameterMap": [
+        {
+            "childParameterName": null, 
+            "childParameterType": "c.s.s.b.phv.Text", 
+            "childParameterUuid": "c4dac7f7-7b20-4b6f-8a9b-be9f69d301c3", 
+            "childProjectName": null, 
+            "childProjectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+            "parentParameterKey": null, 
+            "parentStaticTextValue": "s"
+        }
+    ], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}

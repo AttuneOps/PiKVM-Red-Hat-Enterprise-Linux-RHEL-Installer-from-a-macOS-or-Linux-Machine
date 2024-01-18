@@ -1,0 +1,15 @@
+{
+    "actionOnStepFail": "continue", 
+    "blueprintName": "", 
+    "blueprintUuid": "eb8023cf-b54e-4035-9218-30902b7b8daf", 
+    "cloneUrl": "https://github.com/Attune-Automation/Kickstart-RHEL-Red-Hat-Enterprise-Linux.git", 
+    "enabled": true, 
+    "externalUuid4": "929cbc83-5d3c-4ee7-8a99-5b84a52a1ee3", 
+    "key": "cleanbuildfiles", 
+    "name": "Clean Build Files", 
+    "parameterMap": [], 
+    "projectName": "", 
+    "projectUuid": "9df72585-81b9-4e7c-bd84-8403af28cca6", 
+    "projectVersion": "", 
+    "type": "com.servertribe.attune.tuples.StepProjectLinkTuple"
+}
